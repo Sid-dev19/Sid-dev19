@@ -79,7 +79,7 @@ My goal is to create impactful solutions that enhance user experience and make t
     <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="40" height="40"/> 
   </a>
 </p>
-
+---
 <p align="center">
   <b>✨ “Build. Learn. Improve. Repeat.” ✨</b>
 </p>
