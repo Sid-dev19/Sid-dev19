@@ -31,17 +31,11 @@ My goal is to create impactful solutions that enhance user experience and make t
 ### 🤝 Connect with Me  
 <p align="left">
   <a href="https://www.linkedin.com/in/siddharth-shivhare-541b5a348/" target="blank">
-    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="40" width="40" />
+    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="40" />
   </a>
   <a href="https://github.com/Sid-dev19" target="blank">
-    <img align="center" src="https://skillicons.dev/icons?i=github" alt="github" height="40" width="40" />
+    <img align="center" src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" width="40" />
   </a>
-  <!-- <a href="https://leetcode.com/siddharthshivhare" target="blank">
-    <img align="center" src="https://skillicons.dev/icons?i=leetcode" alt="leetcode" height="40" width="40" />
-  </a> -->
-  <!-- <a href="https://siddharthshivhare.vercel.app" target="blank">
-    <img align="center" src="https://skillicons.dev/icons?i=vercel" alt="portfolio" height="40" width="40" />
-  </a> -->
 </p>
 
 ---
@@ -49,51 +43,42 @@ My goal is to create impactful solutions that enhance user experience and make t
 ### ⚙️ Languages and Tools  
 <p align="left"> 
   <a href="https://react.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
+    <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40"/> 
   </a>
   <a href="https://nextjs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> 
+    <img src="https://skillicons.dev/icons?i=nextjs&theme=light" alt="Next.js" width="40" height="40" style="background-color:white; border-radius:5px; padding:3px;"/> 
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> 
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40"/> 
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/> 
+    <img src="https://skillicons.dev/icons?i=express&theme=light" alt="Express.js" width="40" height="40" style="background-color:white; border-radius:5px; padding:3px;"/> 
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> 
+    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40"/> 
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40"/> 
   </a>
   <a href="https://mui.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="mui" width="40" height="40"/> 
+    <img src="https://skillicons.dev/icons?i=mui&theme=light" alt="MUI" width="40" height="40" style="background-color:white; border-radius:5px; padding:3px;"/> 
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/> 
+    <img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" width="40" height="40"/> 
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/> 
   </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
+    <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="40" height="40"/> 
   </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+    <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="40" height="40"/> 
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+    <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="40" height="40"/> 
   </a>
 </p>
-
----
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SiddharthShivhare&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SiddharthShivhare&theme=radical" />
-</p>
-
----
 
 <p align="center">
   <b>✨ “Build. Learn. Improve. Repeat.” ✨</b>
