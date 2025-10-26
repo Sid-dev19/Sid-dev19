@@ -1,6 +1,6 @@
 ![logo](https://github.com/Sid-dev19/Sid-dev19/blob/main/Sid-dev19-banner.png)
 
-<h1 align="center">Hi 👋, I'm Siddharth Shivhare (@SiddharthShivhare)</h1>
+<h1 align="center">Hi 👋, I'm Siddharth Shivhare (@Sid-dev19)</h1>
 
 <h3 align="center">
 A passionate <b>Full Stack Developer</b> who loves building <b>modern, scalable web applications</b>.<br>
@@ -24,7 +24,7 @@ My goal is to create impactful solutions that enhance user experience and make t
   `React.js` • `Next.js` • `Node.js` • `Express.js` • `MongoDB` • `MySQL` • `HTML` • `CSS` • `JavaScript` • `MUI` • `Tailwind CSS` • `Redux` • `REST APIs` • `Razorpay Integration` • `JWT Authentication`  
 - 💬 Open for opportunities as a **Full Stack Developer | MERN Developer | Frontend Developer | Backend Developer**  
 - 📧 Reach me at: **shivsid17@gmail.com**  
-- ⚡ Fun fact: *I can spend hours debugging — and it actually feels like solving a mystery I don’t want to end.* 😄  
+- ⚡ Fun fact: *I turn '404 not found' into 'Wow, look what I built!* 😄  
 
 ---
 
